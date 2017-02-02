@@ -208,4 +208,7 @@
     <string name="aod_limit_refresh_rate_summary">Cap the refresh rate to 60Hz when the lock screen is visible to save battery.</string>
     <string name="per_app_refresh_rate_title">Per-app refresh rate</string>
     <string name="per_app_refresh_rate_summary">Set a custom refresh rate for specific applications.</string>
+
+    <!-- Running services - Background processes tab -->
+    <string name="background_processes_settings_title">Background processes</string>
 </resources>
