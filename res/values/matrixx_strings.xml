@@ -192,4 +192,16 @@
     <!-- Less boring heads up -->
     <string name="less_boring_heads_up_title">Less boring</string>
     <string name="less_boring_heads_up_summary">Display popup notifications only for alarm, dialer and messaging app</string>
+
+    <!-- Refresh rate -->
+    <string name="refresh_rate_settings_title">Display Refresh Rate</string>
+    <string name="refresh_rate_dynamic">Dynamic</string>
+    <string name="refresh_rate_high">High</string>
+    <string name="refresh_rate_standard">Standard</string>
+    <string name="refresh_rate_dynamic_summary">
+        Dynamically switch refresh rate according to content to optimize battery life.
+    </string>
+    <string name="refresh_rate_summary">A maximum refresh rate of</string>
+    <string name="refresh_rate_high_summary">for smoother scrolling and animations.</string>
+    <string name="refresh_rate_standard_summary">for better battery life.</string>
 </resources>
