@@ -485,4 +485,12 @@
     <string name="idle_manager_no_activity_hint">Actions will appear here after the device screen turns off and apps are idle.</string>
     <string name="idle_manager_refresh_dashboard">Refresh dashboard</string>
     <string name="idle_manager_apply">Apply</string>
+
+    <!-- About Phone -->
+    <string name="matrixx_title">Matrixx Version</string>
+    <string name="mainatiner_title">Maintainer</string>
+    <string name="processor_title">Processor</string>
+    <string name="ram_title">Memory</string>
+    <string name="storage_title">Storage</string>
+    <string name="battery_title">Battery</string>
 </resources>
